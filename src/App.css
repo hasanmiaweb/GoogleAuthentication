@@ -1,0 +1,22 @@
+.authentication {
+  text-align: center;
+  margin-top: 100px;
+}
+button {
+  border: none;
+  padding: 10px 30px;
+  font-size: 19px;
+  font-weight: 400;
+  border-radius: 10px;
+  outline: none;
+}
+button:hover {
+  background: #ddd;
+  transition: 0.5s ease;
+}
+img.card-img-top {
+  width: 100px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+}
